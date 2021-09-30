@@ -25,6 +25,7 @@ function showResult(xml) {
             txt += nodes[i].childNodes[0].nodeValue + "<br>";
         }
     }
-    document.getElementById("demo").innerHTML = txt;
+   console.log(txt);
+   return txt;
 }
 
