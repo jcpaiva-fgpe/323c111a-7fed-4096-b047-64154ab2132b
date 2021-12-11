@@ -1,1 +1,1 @@
-concat(person/lastName, ', ', person/firstName)
+concat(person/lastName, " ",person/firstName)
