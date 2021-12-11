@@ -1,0 +1,1 @@
+Collect all links in the document (XHTML elements of type a, which are attached to the namespace http://www.w3.org/1999/xhtml) which refer to a Google service. The existence of the text “google” within the href-attribute decides whether a Google service is concerned. For the XPath expression, the prefix x is available for the namespace “http://www.w3.org/1999/xhtml”.
