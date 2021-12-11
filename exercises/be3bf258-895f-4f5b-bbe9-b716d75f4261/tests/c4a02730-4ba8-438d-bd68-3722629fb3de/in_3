@@ -1,0 +1,9 @@
+<items>
+  <item width="25" unit="px" />
+  <item width="50" unit="px" />
+ 
+  <item width="100" unit="px" />
+
+  <item width="40" unit="%" />
+  <item width="25" unit="px" />
+</items>
