@@ -1,1 +1,1 @@
-/document/content//x:a[contains(@href, 'google')]
+sum(items/item[@unit = 'px' and @width <= 70]/@width)
