@@ -1,1 +1,1 @@
-{"id":"a31a87bb-6bbe-43a0-b2fd-7a269cf69cd0","arguments":[],"weight":"0","visible":false,"input":"valid.xml","output":"valid_out.txt","timeout":0,"feedback":[{"message":"Feedback hint","weight":"0"}]}
+{"id":"a31a87bb-6bbe-43a0-b2fd-7a269cf69cd0","arguments":[],"weight":"0","visible":"false","input":"valid.xml","output":"valid_out.txt","timeout":"0","feedback":[{"message":"Feedback hint","weight":"0"}]}
