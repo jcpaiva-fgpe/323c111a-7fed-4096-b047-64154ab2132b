@@ -1,7 +1,4 @@
-<?xml version="1.0" " ?>
-  <!DOCTYPE STORY SYSTEM "story-grammar.dtd">
-  <?xml-stylesheet href="story-grammar.css" type="text/css"?>
-  <STORY>
+<STORY>
    <title>The little XMLer</title>
    <context></context>
   <problem></problem>
