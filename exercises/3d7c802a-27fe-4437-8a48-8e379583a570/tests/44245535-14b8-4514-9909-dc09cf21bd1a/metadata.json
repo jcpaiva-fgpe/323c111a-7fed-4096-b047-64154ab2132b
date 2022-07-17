@@ -1,1 +1,1 @@
-{"id":"44245535-14b8-4514-9909-dc09cf21bd1a","arguments":[],"weight":"0","visible":false,"input":"invalid.xml","output":"invalid_out.txt","timeout":0,"feedback":[{"message":"wrong test case ","weight":"0"}]}
+{"id":"44245535-14b8-4514-9909-dc09cf21bd1a","arguments":[],"weight":"0","visible":"false","input":"invalid.xml","output":"invalid_out.txt","timeout":"0","feedback":[{"message":"wrong test case ","weight":"0"}]}
