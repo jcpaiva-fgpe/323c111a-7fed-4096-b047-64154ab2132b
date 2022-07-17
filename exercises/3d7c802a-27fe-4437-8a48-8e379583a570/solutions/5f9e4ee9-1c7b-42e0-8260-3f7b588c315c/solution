@@ -1,1 +1,2 @@
- <!ATTLIST sender company CDATA #FIXED "Microsoft">
+<!ELEMENT sender (#PCDATA)>
+<!ATTLIST sender company CDATA #FIXED "Microsoft">
