@@ -1,1 +1,21 @@
-<sender company="Microsoft" />
+<?xml version="1.0" " ?>
+  <!DOCTYPE STORY SYSTEM "story-grammar.dtd">
+  <?xml-stylesheet href="story-grammar.css" type="text/css"?>
+  <STORY>
+   <title>The little XMLer</title>
+   <context></context>
+  <problem></problem>
+  <goal></goal>
+  <THREADS>
+    <EPISODE>
+      <subgoal>I have to do it ...</subgoal>
+      <ATTEMPT>
+        <action></action>
+      </ATTEMPT>
+      <result></result>
+    </EPISODE>
+  </THREADS>
+  <moral></moral>
+  <INFOS>
+  </INFOS>
+ </STORY>
