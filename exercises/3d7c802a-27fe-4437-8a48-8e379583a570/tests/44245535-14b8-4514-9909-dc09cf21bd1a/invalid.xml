@@ -2,8 +2,4 @@
 
 <!DOCTYPE note SYSTEM "https://www.w3schools.com/xml/note.dtd">
 
-<note>
-  <to>Tove</to>
-  <from>Jani</from>
-  <body>Don't forget me this weekend!</body>
-</note>
+ <sender company="W3Schools" /> 
