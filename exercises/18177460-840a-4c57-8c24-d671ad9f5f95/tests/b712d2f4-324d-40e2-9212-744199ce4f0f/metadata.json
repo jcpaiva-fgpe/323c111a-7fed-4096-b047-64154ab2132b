@@ -1,1 +1,1 @@
-{"id":"b712d2f4-324d-40e2-9212-744199ce4f0f","arguments":[],"weight":"0","visible":false,"input":"correct.xml","output":"solution.txt","timeout":0,"feedback":{}}
+{"id":"b712d2f4-324d-40e2-9212-744199ce4f0f","arguments":[],"weight":"0","visible":"false","input":"correct.xml","output":"solution.txt","timeout":"0","feedback":[{"message":"feedback 2","weight":"0"}]}
